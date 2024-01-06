@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "C:\\Users\\Admin\\Documents\\scb_package",
+  "_repo_dir": "C:\\Users\\Admin\\.cookiecutters\\cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Ruben Selander",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "ruben.selander@nordicintel.com",
+  "friendly_name": "SCB Python Wrapper",
+  "github_user": "Reversehobo",
+  "license": "MIT",
+  "package_name": "scb",
+  "project_name": "scb",
+  "version": "0.1.0"
+}
