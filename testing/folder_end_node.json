@@ -1,0 +1,335 @@
+{
+    "language": "sv",
+    "id": "AA0003B",
+    "label": "Statistik med inriktning mot arbetsmarknaden",
+    "description": "",
+    "folderContents": [
+        {
+            "type": "Table",
+            "id": "TAB3966",
+            "label": "Andel förvärvsarbetande kommunmottagna flyktningar och anhöriga efter ålder, kön och mottagningsår 1997-2022",
+            "description": "",
+            "updated": "2023-12-22T07:00:00Z",
+            "firstPeriod": "1997",
+            "lastPeriod": "2022",
+            "category": "public",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB3966?lang=sv"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB3966/metadata?lang=sv&outputFormat=json-px"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB3966/metadata?lang=sv&outputFormat=json-stat2"
+                },
+                {
+                    "rel": "data",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB3966/data?lang=sv&outputFormat=px"
+                }
+            ]
+        },
+        {
+            "type": "Table",
+            "id": "TAB3969",
+            "label": "Andel förvärvsarbetande kommunmottagna flyktingar och anhöriga efter utbildning, kön och mottagningsår 1997-2022",
+            "description": "",
+            "updated": "2023-12-22T07:00:00Z",
+            "firstPeriod": "1997",
+            "lastPeriod": "2022",
+            "category": "public",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB3969?lang=sv"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB3969/metadata?lang=sv&outputFormat=json-px"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB3969/metadata?lang=sv&outputFormat=json-stat2"
+                },
+                {
+                    "rel": "data",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB3969/data?lang=sv&outputFormat=px"
+                }
+            ]
+        },
+        {
+            "type": "Table",
+            "id": "TAB4626",
+            "label": "Andel förvärvsarbetande kommunmottagna flyktingar och anhöriga efter län, kön och mottagningsår 1997-2022",
+            "description": "",
+            "updated": "2023-12-22T07:00:00Z",
+            "firstPeriod": "1997",
+            "lastPeriod": "2022",
+            "category": "public",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4626?lang=sv"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4626/metadata?lang=sv&outputFormat=json-px"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4626/metadata?lang=sv&outputFormat=json-stat2"
+                },
+                {
+                    "rel": "data",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4626/data?lang=sv&outputFormat=px"
+                }
+            ]
+        },
+        {
+            "type": "Table",
+            "id": "TAB4944",
+            "label": "Andel kommunmottagna flyktningar och anhöriga som fått en första inkomst från arbete eller varit registrerade som egenföretagare, efter ålder, år efter mottagning, kön och mottagningsår 1997-2021",
+            "description": "",
+            "updated": "2022-12-20T07:00:00Z",
+            "firstPeriod": "1997",
+            "lastPeriod": "2021",
+            "category": "public",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4944?lang=sv"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4944/metadata?lang=sv&outputFormat=json-px"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4944/metadata?lang=sv&outputFormat=json-stat2"
+                },
+                {
+                    "rel": "data",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4944/data?lang=sv&outputFormat=px"
+                }
+            ]
+        },
+        {
+            "type": "Table",
+            "id": "TAB4881",
+            "label": "Arbetsmarknadsvariabler efter kommun, kön, utbildningsnivå och bakgrundsvariabel. År 1997-2021",
+            "description": "",
+            "updated": "2023-04-12T06:00:00Z",
+            "firstPeriod": "1997",
+            "lastPeriod": "2021",
+            "category": "public",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4881?lang=sv"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4881/metadata?lang=sv&outputFormat=json-px"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4881/metadata?lang=sv&outputFormat=json-stat2"
+                },
+                {
+                    "rel": "data",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4881/data?lang=sv&outputFormat=px"
+                }
+            ]
+        },
+        {
+            "type": "Table",
+            "id": "TAB389",
+            "label": "Arbetsmarknadsvariabler efter län, kön, utbildningsnivå och bakgrundsvariabel. År 1997-2021",
+            "description": "",
+            "updated": "2023-04-12T06:00:00Z",
+            "firstPeriod": "1997",
+            "lastPeriod": "2021",
+            "category": "public",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB389?lang=sv"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB389/metadata?lang=sv&outputFormat=json-px"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB389/metadata?lang=sv&outputFormat=json-stat2"
+                },
+                {
+                    "rel": "data",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB389/data?lang=sv&outputFormat=px"
+                }
+            ]
+        },
+        {
+            "type": "Table",
+            "id": "TAB1772",
+            "label": "Arbetsmarknadsvariabler. Hela riket efter kön, utbildningsnivå och bakgrundsvariabel. År 1997-2021",
+            "description": "",
+            "updated": "2023-04-12T06:00:00Z",
+            "firstPeriod": "1997",
+            "lastPeriod": "2021",
+            "category": "public",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB1772?lang=sv"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB1772/metadata?lang=sv&outputFormat=json-px"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB1772/metadata?lang=sv&outputFormat=json-stat2"
+                },
+                {
+                    "rel": "data",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB1772/data?lang=sv&outputFormat=px"
+                }
+            ]
+        },
+        {
+            "type": "Table",
+            "id": "TAB4933",
+            "label": "Antal förvärvsarbetande kommunmottagna flyktingar och anhöriga, 20-64 år, efter antal år efter mottagandet och kön. Mottagningsår 1997-2022",
+            "description": "",
+            "updated": "2023-12-22T07:00:00Z",
+            "firstPeriod": "1997",
+            "lastPeriod": "2022",
+            "category": "public",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4933?lang=sv"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4933/metadata?lang=sv&outputFormat=json-px"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4933/metadata?lang=sv&outputFormat=json-stat2"
+                },
+                {
+                    "rel": "data",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4933/data?lang=sv&outputFormat=px"
+                }
+            ]
+        },
+        {
+            "type": "Table",
+            "id": "TAB4960",
+            "label": "Andel förvärvsarbetande kommunmottagna flyktingar och anhöriga, 20-64 år, efter antal år efter mottagandet och kön. Mottagningsår 1997-2022",
+            "description": "",
+            "updated": "2023-12-22T07:00:00Z",
+            "firstPeriod": "1997",
+            "lastPeriod": "2022",
+            "category": "public",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4960?lang=sv"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4960/metadata?lang=sv&outputFormat=json-px"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4960/metadata?lang=sv&outputFormat=json-stat2"
+                },
+                {
+                    "rel": "data",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB4960/data?lang=sv&outputFormat=px"
+                }
+            ]
+        },
+        {
+            "type": "Table",
+            "id": "TAB5719",
+            "label": "Arbetsmarknadsvariabler efter RegSO, kön och bakgrundsvariabel. År 2007-2021",
+            "description": "",
+            "updated": "2023-10-24T06:00:00Z",
+            "firstPeriod": "2007",
+            "lastPeriod": "2021",
+            "category": "public",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB5719?lang=sv"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB5719/metadata?lang=sv&outputFormat=json-px"
+                },
+                {
+                    "rel": "metadata",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB5719/metadata?lang=sv&outputFormat=json-stat2"
+                },
+                {
+                    "rel": "data",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/tables/TAB5719/data?lang=sv&outputFormat=px"
+                }
+            ]
+        }
+    ],
+    "links": [
+        {
+            "rel": "self",
+            "hreflang": "sv",
+            "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003B?lang=sv"
+        }
+    ]
+}
