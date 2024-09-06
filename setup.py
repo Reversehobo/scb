@@ -6,9 +6,9 @@ setup(
     packages=find_packages(),
     install_requires=["requests"],
     description="A Python wrapper for SCB API",
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/scb",  # Update with the actual URL
+    author="Ruben Selander",
+    author_email="ruben.selander@nordicintel.com",
+    url="https://github.com/rubenselander/scb",  # Update with the actual URL
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
