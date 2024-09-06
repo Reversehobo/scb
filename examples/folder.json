@@ -1,0 +1,145 @@
+{
+    "language": "sv",
+    "id": "AA0003",
+    "label": "Registerdata för integration",
+    "description": "",
+    "folderContents": [
+        {
+            "type": "FolderInformation",
+            "id": "AA0003B",
+            "label": "Statistik med inriktning mot arbetsmarknaden",
+            "description": "",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003B?lang=sv"
+                }
+            ]
+        },
+        {
+            "type": "FolderInformation",
+            "id": "AA0003E",
+            "label": "Statistik med inriktning mot demografi",
+            "description": "",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003E?lang=sv"
+                }
+            ]
+        },
+        {
+            "type": "FolderInformation",
+            "id": "AA0003G",
+            "label": "Statistik med inriktning mot transfereringar",
+            "description": "",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003G?lang=sv"
+                }
+            ]
+        },
+        {
+            "type": "FolderInformation",
+            "id": "AA0003F",
+            "label": "Statistik med inriktning mot inkomster",
+            "description": "",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003F?lang=sv"
+                }
+            ]
+        },
+        {
+            "type": "FolderInformation",
+            "id": "AA0003D",
+            "label": "Statistik med inriktning mot boende",
+            "description": "",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003D?lang=sv"
+                }
+            ]
+        },
+        {
+            "type": "FolderInformation",
+            "id": "AA0003C",
+            "label": "Statistik med inriktning mot flyttmönster",
+            "description": "",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003C?lang=sv"
+                }
+            ]
+        },
+        {
+            "type": "FolderInformation",
+            "id": "AA0003H",
+            "label": "Statistik med inriktning mot utbildning",
+            "description": "",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003H?lang=sv"
+                }
+            ]
+        },
+        {
+            "type": "FolderInformation",
+            "id": "AA0003I",
+            "label": "Statistik med inriktning mot hälsa",
+            "description": "",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003I?lang=sv"
+                }
+            ]
+        },
+        {
+            "type": "FolderInformation",
+            "id": "AA0003J",
+            "label": "Statistik med inriktning mot val och valda",
+            "description": "",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003J?lang=sv"
+                }
+            ]
+        },
+        {
+            "type": "FolderInformation",
+            "id": "AA0003X",
+            "label": "Äldre tabeller som inte uppdateras",
+            "description": "",
+            "links": [
+                {
+                    "rel": "self",
+                    "hreflang": "sv",
+                    "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003X?lang=sv"
+                }
+            ]
+        }
+    ],
+    "links": [
+        {
+            "rel": "self",
+            "hreflang": "sv",
+            "href": "https://api.scb.se/OV0104/v2beta/api/v2/navigation/AA0003?lang=sv"
+        }
+    ]
+}

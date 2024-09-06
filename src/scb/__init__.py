@@ -1,1 +1,0 @@
-"""SCB Python Wrapper."""
