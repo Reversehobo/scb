@@ -1,6 +1,6 @@
-"""SCB Python Wrapper."""
+"""SSB Python Wrapper."""
 
-from .scb import (
+from scb import (
     get_config,
     get_tables,
     get_folder,
@@ -13,6 +13,9 @@ from .scb import (
     set_database,
     set_default_lang,
 )
+
+set_database("ssb")
+
 
 __all__ = [
     "get_config",

@@ -10,8 +10,14 @@ SESSION = requests.Session()
 BASE_URL = "https://api.scb.se/ov0104/v2beta/api/v2"
 DEFAULT_LANG = None
 DEFAULT_FORMAT = "csv2"  # Default format for data response
-config = None
+CONFIG = None
 PAGE_SIZE = 10000
+
+
+URL_SHORTCUTS = {
+    "scb": "https://api.scb.se/ov0104/v2beta/api/v2",
+    "ssb": "https://data.ssb.no/api/pxwebapi/v2-beta",
+}
 
 
 def _combine_csv_strings(csv_strings: list[str]) -> str:
@@ -197,6 +203,21 @@ def set_base_url(url: str) -> None:
     """Set the base URL for the module to use."""
     global BASE_URL
     BASE_URL = url
+    get_config(override=True)
+
+
+def set_database(database: str) -> None:
+    """Set the base URL for the module to use.
+    Args:
+        database (str): The database to set the base URL to. Options are 'scb' or 'ssb'.
+    """
+    if database not in URL_SHORTCUTS:
+        raise ValueError(
+            f"Invalid database: {database}. Valid databases are {URL_SHORTCUTS.keys()}"
+        )
+    global BASE_URL
+    BASE_URL = URL_SHORTCUTS[database]
+    get_config(override=True)
 
 
 def set_default_lang(lang: str) -> None:
@@ -242,13 +263,18 @@ def _get_language_param(lang: str = None) -> dict:
     return {}  # No language parameter
 
 
-def get_config() -> dict:
-    """Get the configuration and set it as a global variable."""
-    global config
-    if config is None:
+def get_config(override: bool = False) -> dict:
+    """Get the configuration and set it as a global variable.
+    Args:
+        override (bool): Whether to override the global configuration.
+    Returns:
+        dict: The configuration.
+    """
+    global CONFIG
+    if CONFIG is None or override:
         response = SESSION.get(BASE_URL + "/config")
-        config = response.json()
-    return config
+        CONFIG = response.json()
+    return CONFIG
 
 
 def get_folder(folder_id: str = "", lang: str = None) -> dict:
